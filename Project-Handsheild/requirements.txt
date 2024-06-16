@@ -1,5 +1,0 @@
-Install these python libraries
-
-- opencv-python
-- opencv-contrib-python
-- mediapipe
